@@ -1,0 +1,23 @@
+vscode theme
+
+preferences.txt
+editor.font=Consolas,plain,14
+
+
+background (255,255,255)
+40 44 52
+#282C34
+#21252B dark left side 
+
+#2C313C highlight line 
+#404859 line mark/selection
+onedarkpro
+
+Whiskey : #D19A66 (constant)
+Fountain Blue : #56B6C2 (console)
+Chalky : #E5C07B (constant)
+Soft Purple : #C678DD (url,keyword)
+Malibu : #61AFEF (function)
+Pistachio : #98C379 (string)
+Cadet Blue : #ABB2BF (text)
+Froly : #E06C75 (variable)
