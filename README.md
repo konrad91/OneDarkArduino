@@ -1,9 +1,9 @@
 # OneDarkArduino
-Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify. Based on work done by Jeff Thompson: https://create.arduino.cc/projecthub/rahulkhanna/dark-theme-for-arduino-ide-17c001?ref=search&ref_id=theme&offset=0 
+Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify: https://binaryify.github.io/OneDark-Pro/#/. Based on work done by Jeff Thompson: https://create.arduino.cc/projecthub/rahulkhanna/dark-theme-for-arduino-ide-17c001?ref=search&ref_id=theme&offset=0 
 
 ![screenshot](https://raw.githubusercontent.com/konrad91/OneDarkArduino/master/one_dark_arduino_1.png)
 
-The following is credited to https://github.com/jeffThompson/DarkArduinoTheme) 
+The following is credited to https://github.com/jeffThompson/DarkArduinoTheme 
 
 ### INSTALLATION  
 
