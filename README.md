@@ -1,3 +1,5 @@
+![screenshot](https://raw.githubusercontent.com/konrad91/OneDarkArduino/master/one_dark_arduino_1.png)
+
 # OneDarkArduino
 Dark theme for the Arduino IDE, inspired by One Dark Pro for VSCode by binaryify
 
