@@ -21,7 +21,7 @@ if ! [ "$(stat ./theme)" ]; then
 fi
 
 echo "Moving OLD theme folder to ${IDE_PATH}/theme.bak"
-cp -r "${IDE_PATH}/theme" "${IDE_PATH}/theme.bak"
+mv "${IDE_PATH}/theme" "${IDE_PATH}/theme.bak"
 
 echo "Moving NEW theme folder to ${IDE_PATH}/theme"
 cp -r ./theme "${IDE_PATH}/theme"
